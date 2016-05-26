@@ -1,0 +1,11 @@
+* { 
+    margin: 50px;
+}
+
+.header {
+    background: gray;
+    color: skyblue;
+    height: 70px;
+    width: 530px;
+    text-align: center;
+}
